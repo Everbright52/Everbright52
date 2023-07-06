@@ -21,3 +21,5 @@
 ### My Contributions
 
 ![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everbright52)](https://github.com/anuraghazra/github-readme-stats)
